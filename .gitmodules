@@ -1,0 +1,3 @@
+[submodule "external/mocopi-sdk"]
+	path = external/mocopi-sdk
+	url = https://github.com/sony/mocopi-motion-serializer.git

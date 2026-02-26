@@ -1,0 +1,12 @@
+# ignore build outputs
+build/
+bin/
+obj/
+*.exe
+*.dll
+*.so
+*.dylib
+
+# specifically for the mocopi SDK build folders
+external/mocopi-sdk/build/Windows/bin/
+external/mocopi-sdk/build/macOS/bin/
